@@ -1,7 +1,7 @@
 # Maze Solver 🌐
 
 ## Introduzione 🚀
-Benvenuti nel progetto Maze Solver, una soluzione Python che affronta il classico problema del labirinto. Questo progetto genera labirinti casuali ma utilizza anche un algoritmo di ricerca brute force per trovare una soluzione. Se una soluzione non può essere trovata, il sistema genererà un nuovo labirinto e ripeterà il processo.
+Questo progetto affronta il classico problema del labirinto, genearndo labirinti casuali e sfruttando un algoritmo di ricerca brute force per trovare una soluzione. Se una soluzione non può essere trovata, il sistema genererà un nuovo labirinto e ripeterà il processo.
 
 ## Caratteristiche Principali 📋
 - **Generazione di Labirinti Casuali**: Crea labirinti ad ogni esecuzione, offrendo una sfida sempre nuova.
