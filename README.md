@@ -1,10 +1,9 @@
 # Maze Solver 🌐
 
-## Introduzione 🚀
-Questo progetto affronta il classico problema del labirinto, genearndo labirinti casuali e sfruttando un algoritmo di ricerca brute force per trovare una soluzione. Se una soluzione non può essere trovata, il sistema genererà un nuovo labirinto e ripeterà il processo.
+## Introduction 🚀
+This project tackles the classic maze problem by generating random mazes and using a brute-force search algorithm to find a solution. If a solution cannot be found, the system will generate a new maze and repeat the process.
 
-## Caratteristiche Principali 📋
-- **Generazione di Labirinti Casuali**: Crea labirinti ad ogni esecuzione, offrendo una sfida sempre nuova.
-- **Ricerca Brute Force**: Esplora tutti i possibili percorsi nel labirinto fino a trovare una soluzione, dimostrando l'efficacia dell'algoritmo nel risolvere labirinti complessi.
-- **Fallback per la Generazione di Nuovi Labirinti**: Se una soluzione non viene trovata, il sistema genera automaticamente un nuovo labirinto, assicurando che ci sia sempre una sfida da superare.
-
+## Main Features 📋
+- **Random Maze Generation**: Generates a new maze with each execution, providing a unique challenge every time.
+- **Brute Force Search**: Explores all possible paths in the maze until a solution is found, showcasing the effectiveness of the algorithm in solving complex mazes.
+- **Fallback for New Maze Generation**: If no solution is found, the system automatically creates a new maze, ensuring there's always a challenge to overcome.
